@@ -1,14 +1,12 @@
-# Project
+# Azure Web PubSub service simple chat app with Azure Static Web App service
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+[Azure Web PubSub](https://aka.ms/awps) helps you build real-time messaging web applications using WebSockets and the publish-subscribe pattern easily. This real-time functionality allows publishing content updates between server and connected clients (for example a single page web application or mobile application). The clients do not need to poll the latest updates, or submit new HTTP requests for updates. And [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) convenients you automatically builds and deploys full stack web apps to Azure from a code repository.. 
 
-As the maintainer of this project, please make a few updates:
+Use this repo template you can easily create and deploy a real-time message chat app in minutes.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Steps
+
+*TODO*
 
 ## Contributing
 
