@@ -6,7 +6,11 @@ Use this repo template you can easily create and deploy a real-time message chat
 
 ## Steps
 
-*TODO*
+See [HERE](https://docs.microsoft.com/azure/azure-web-pubsub/tutorial-swa).
+
+## Support
+
+If you meet any problem working on Azure Web PubSub or this template related, please go to [azure-webpubsub](https://github.com/Azure/azure-webpubsub/issues/new/choose) to file an issue and look for further support.
 
 ## Contributing
 
