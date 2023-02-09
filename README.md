@@ -6,7 +6,7 @@ Use this repo template you can easily create and deploy a real-time message chat
 
 ## Steps
 
-See [HERE](https://docs.microsoft.com/azure/azure-web-pubsub/tutorial-swa).
+See [HERE](https://learn.microsoft.com/azure/azure-web-pubsub/tutorial-serverless-static-web-app).
 
 ## Support
 
