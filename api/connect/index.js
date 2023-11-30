@@ -3,8 +3,8 @@
 
 // function for auth.
 module.exports = function (context, req, wpsReq) {
-    console.log("response connect");
-    console.log(wpsReq.request.connectionContext.userId);
+    context.log("response connect");
+    context.log(wpsReq.request.connectionContext.userId);
     context.res = { body: {"userId": wpsReq.request.connectionContext.userId} };
     context.done();
   };
